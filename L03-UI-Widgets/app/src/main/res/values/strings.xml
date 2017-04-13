@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">L03-UI-Widgets</string>
+    <string name="max_value_seek_bar">100</string>
+</resources>
