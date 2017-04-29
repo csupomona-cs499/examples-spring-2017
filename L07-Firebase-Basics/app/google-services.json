@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "525355611665",
+    "firebase_url": "https://halogen-acumen-148314.firebaseio.com",
+    "project_id": "halogen-acumen-148314",
+    "storage_bucket": "halogen-acumen-148314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525355611665:android:a2fd1a5c89ee75fe",
+        "android_client_info": {
+          "package_name": "edu.cpp.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525355611665-atuf2a11dg8ju4qfbcr8o1cnsha3acpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpaz0C_IpFtaRvf85s3DO5SOSRJwpXT2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
